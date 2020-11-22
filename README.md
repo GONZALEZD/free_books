@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<object data="https://github.com/GONZALEZD/free_books/blob/master/project_presentation.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/GONZALEZD/free_books/blob/master/project_presentation.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/GONZALEZD/free_books/blob/master/project_presentation.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
