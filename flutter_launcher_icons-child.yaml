@@ -1,0 +1,12 @@
+# flutter pub run flutter_launcher_icons:main -f flutter_launcher_icons-child.yaml
+#
+# Then retrieve images on android/.../main/res and put them into dedicated folders
+# (finally remove src/main/res folder, because of duplicate files)
+#
+# Same for ios, under Runner/Assets.xcassets/AppIcon => to adultAppIcon
+flutter_icons:
+  ios: true
+  android: true
+  image_path: "assets/icon/child/main.png"
+  adaptive_icon_background: "assets/icon/child/main_background.png"
+  adaptive_icon_foreground: "assets/icon/child/main_foreground.png"

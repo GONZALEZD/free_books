@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main-child.dart
+
+ASSET_PREFIX=child
+BUNDLE_NAME=Child Books

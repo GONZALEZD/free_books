@@ -1,0 +1,4 @@
+enum Flavor {
+  ADULT,
+  CHILD,
+}
